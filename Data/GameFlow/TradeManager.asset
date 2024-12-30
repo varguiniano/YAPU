@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3d026b085ae4b77ba343ef4d59d1f3c, type: 3}
+  m_Name: TradeManager
+  m_EditorClassIdentifier: 
+  MonsterToTrade:
+    Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      HeightModifier: 0
+      WeightModifier: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    Sheen: 0
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+    EggData:
+      IsEgg: 0
+      EggCyclesLeft: 0
+    ExtraData:
+      PersonalityValue: 0
+      NeedsLevelUpEvolutionCheck: 0
+      EvolutionCounter: 0
+      TimesLandedCriticalHitLastBattle: 0
+  NewMonster:
+    Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      HeightModifier: 0
+      WeightModifier: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    Sheen: 0
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+    EggData:
+      IsEgg: 0
+      EggCyclesLeft: 0
+    ExtraData:
+      PersonalityValue: 0
+      NeedsLevelUpEvolutionCheck: 0
+      EvolutionCounter: 0
+      TimesLandedCriticalHitLastBattle: 0
+  Recipient: {fileID: 0}
+  TradeScene:
+    SceneName: Trade

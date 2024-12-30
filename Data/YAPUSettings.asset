@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f664246e515423a8fe868fd58965907, type: 3}
+  m_Name: YAPUSettings
+  m_EditorClassIdentifier: 
+  MainMenuScene:
+    SceneName: MainMenu
+  AllowPlayerToChooseCharacterOnNewGame: 1
+  DayLengthInSeconds: 1440
+  TileEncounterChance:
+    m_Keys: 0100000000000000020000000300000004000000050000000600000007000000
+    m_Values:
+    - 0.11
+    - 0
+    - 0.022
+    - 0.06
+    - 1
+    - 1
+    - 1
+    - 0.022
+  EncountersWithModifiableChances: 0000000001000000020000000300000007000000
+  WildShinyChance: 0.001953125
+  MaxEVPointsPerMonster: 510
+  FriendshipTickSteps: 128
+  FriendshipTickChance: 0.5
+  NoPPMove: {fileID: 11400000, guid: 154b2afb2e9a2984ea5e23633bce7c9c, type: 2}
+  TypesThatCanOnlyAffectGrounded:
+  - {fileID: 11400000, guid: 29fa34924aa008b4fb68ad85c7244f9a, type: 2}
+  AfterBattleVirusChance: 0.000045776367
+  SizeLimitsInBattle: {x: 0.4, y: 1.6}
+  OriginGame: YAPUDemoProject
+  HeightVariability: 0.1
+  WeightVariability: 0.1
+  DefaultBall: {fileID: 11400000, guid: af8564b2b62bad8478a6d36498082800, type: 2}
+  MaxNicknameSize: 20
+  LevelMonstersAreBornAt: 1
+  EggsType: {fileID: 11400000, guid: f0bb1cfaf4196434c801d9fd9c09bc9f, type: 2}
+  StepsPerEggCycle: 128
+  EmptySpriteContainer:
+    EmptySprite: {fileID: 0}
+  CurrencySymbolPositions:
+    SerializedList:
+    - Key: Castillian
+      Value: 1
+    - Key: English
+      Value: 0
+    - Key: Flanian
+      Value: 1
+  DefaultCurrencySymbolPosition: 0

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64c35c602fbf4938afc67b171f981993, type: 3}
+  m_Name: MLBattleAI
+  m_EditorClassIdentifier: 
+  AgentPrefab: {fileID: 4397668466916772384, guid: 724ea62b7628043488dd1f69e08ddceb, type: 3}
+  Fallback: {fileID: 11400000, guid: bd0f9af6c695d45478840a0dff576de2, type: 2}

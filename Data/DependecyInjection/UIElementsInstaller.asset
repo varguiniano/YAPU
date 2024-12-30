@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1c41ce803e4db88bc18959ca0403dd, type: 3}
+  m_Name: UIElementsInstaller
+  m_EditorClassIdentifier: 
+  BagItemButtonPrefab: {fileID: 2550279291801041798, guid: 4bd21115037061a418a63d915c901cfb, type: 3}
+  QuickAccessItemButtonPrefab: {fileID: 107472289517607967, guid: e48d0f39e82c45e4395ca7078224e0e3, type: 3}
+  ShopItemButtonPrefab: {fileID: 2550279291801041798, guid: f733768fd0fb3e5498197530d57714dc, type: 3}
+  StorageMonsterButtonPrefab: {fileID: 3997898354836351049, guid: 277ce140a2901d64097d12fd8713e627, type: 3}
+  SpeciesFilterButtonPrefab: {fileID: 484768238966275451, guid: c2f3ec82ceff4c44b9dab7f57141eca1, type: 3}
+  StandardMoveButton: {fileID: 5411334526849693638, guid: 52bf878292a00434f9f9fcd2eb0f96c6, type: 3}
+  MoveFilterButtonPrefab: {fileID: 4966576014288092977, guid: 9fa42537206170148b28b2cd1fa5294d, type: 3}
+  MoveByLevelButton: {fileID: 4524410511070152904, guid: 39fae290120c0764ba31cf4d02a3ca71, type: 3}
+  AbilityButtonPrefab: {fileID: 4397688189652270467, guid: ffb36228fd8f2db41ae66c2cba57f315, type: 3}
+  NatureButtonPrefab: {fileID: 3407516833978010852, guid: 460b36d87e14ba842bb7e5390c4446c7, type: 3}
+  EggGroupButtonPrefab: {fileID: 7723252618334957339, guid: 2bcc8d992c56570489519530c748de6a, type: 3}
+  MonsterRelationshipButton: {fileID: 7666708698044837754, guid: b69f0e98d8d858b448303d39ec194dbd, type: 3}
+  SavegameButton: {fileID: 961004029646762500, guid: b51b34ae4ac540f4daa908c07256cb69, type: 3}
+  BadgeButton: {fileID: 3797162485247087493, guid: 6185d9a6d84a63b4283b85b36859a923, type: 3}
+  DexMonsterButton: {fileID: 6822436602215799740, guid: fe9f3cd64303c144b8949938ceca06c3, type: 3}
+  DexEncounterButton: {fileID: 1355013426540921469, guid: f71111a2804a5414594113f27cf807b5, type: 3}
+  QuestButton: {fileID: 1028120209940961898, guid: 10f0a0e2748c9284a978a7b5428ffda6, type: 3}

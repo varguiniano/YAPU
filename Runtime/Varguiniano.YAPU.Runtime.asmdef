@@ -1,0 +1,40 @@
+{
+    "name": "Varguiniano.YAPU.Runtime",
+    "rootNamespace": "Varguiniano",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:6f75e3e9b2be11e40a79ad3ceec60e41",
+        "GUID:65b45c1fca0f88146a105e3b90cf3221",
+        "GUID:47554a920980dbf43947e6c7d3f07d92",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:d04eb9c554ad44ceab303cecf0c0cf82",
+        "GUID:aae4add5d5c67aa4d93b523bec04893b",
+        "GUID:94d4acbe6edae234084ccfdd0e5ebd4b",
+        "GUID:f37b700458f22ce458ff7516225c3041",
+        "GUID:613783dc1674e844b87788ea74ede0f6",
+        "GUID:7d3c95752fe056b47bf758376998953d",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:5aecca43f8b5ec34dbb52f863bdf0e59",
+        "GUID:1e113d3b5d77bc04eab508251483e8ff",
+        "GUID:aa8d2aa0bc6b5bb42949ea3cc7f6bc5c",
+        "GUID:85e0054f8e64b47309646d35f8851f81"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "log4net.dll",
+        "Zenject-usage.dll",
+        "Sirenix.OdinInspector.Attributes.dll",
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 906fc76be9fe40a8bfbfae74c5ff1d1e, type: 3}
+  m_Name: NewGameInitializer
+  m_EditorClassIdentifier: 
+  InitialPosition:
+    Scene: {fileID: 11400000, guid: ce955ccd6c390d449872f954923bafc6, type: 2}
+    Location: {x: -2, y: 13}
+  InitialRoster: {fileID: 11400000, guid: 68a913e4ffedb184ba11e04c3a129de6, type: 2}
+  InitialBag: {fileID: 11400000, guid: 123f95c39722082479745362b70a6e3e, type: 2}
+  GameOptionsScene:
+    SceneName: GameStartSettings
+  CharacterSelectionScene:
+    SceneName: CharacterSelection

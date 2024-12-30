@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1172757858d2479ba91f6f584b23de55, type: 3}
+  m_Name: GameFlowInstaller
+  m_EditorClassIdentifier: 
+  Reference: {fileID: 11400000, guid: cb6736924802855489d3bd7378e961cb, type: 2}
+  PlayerTeleporter: {fileID: 11400000, guid: db931d6f91c587d4f9cab89f34f96511, type: 2}
+  TimeManager: {fileID: 11400000, guid: 7ec5ff44bd43d60409ce3c18c0457e89, type: 2}

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a76145a554b97994d109c9577dae6, type: 3}
+  m_Name: GlobalGameData
+  m_EditorClassIdentifier: 
+  GameVariables:
+    BoolVariables: []
+    IntVariables:
+    - Name: StarterChosen
+      DefaultValue: -1
+      Value: 2
+    FloatVariables: []
+    StringVariables: []
+  LastSaveDate: 2024-11-28 11:38:08
+  LastGameVersion: 0.2.0a.20241123110142
+  LastYAPUVersion: 0.2.0
+  LastYAPUAssetsVersion: 0.2.0
+  GameDifficulty: 1
+  CatchDifficulty: 2
+  HasDex: 1
+  LastHealLocation:
+    Scene: {fileID: 11400000, guid: ce955ccd6c390d449872f954923bafc6, type: 2}
+    Location: {x: -2, y: 13}
+  LastPlayerLocation:
+    Scene: {fileID: 11400000, guid: 494bd845c3c87f9449b000d8bc216040, type: 2}
+    Location: {x: 0, y: -3}
+  WasPlayerOnBridgeOnLastLocation: 0
+  StepsTaken: 543
+  ObtainedBadges:
+    SerializedList: []
+  VisitedScenes:
+  - {fileID: 11400000, guid: ce955ccd6c390d449872f954923bafc6, type: 2}
+  - {fileID: 11400000, guid: bd80f5a29a39f2548a6ae1636d1bdd9d, type: 2}
+  - {fileID: 11400000, guid: 1a8e68bc473ea9c48a546a6bc7934211, type: 2}
+  - {fileID: 11400000, guid: bea16fe8e486cb14cb457c4dba143c5f, type: 2}
+  - {fileID: 11400000, guid: 26e2c43779ec42747b32d1a84abcb59b, type: 2}
+  - {fileID: 11400000, guid: 6d42a22e2c7821140bd79c0f9eb80b56, type: 2}
+  - {fileID: 11400000, guid: 82b927748711f21489d676044f578a6c, type: 2}
+  - {fileID: 11400000, guid: 91357085963941547a1b9483857c602e, type: 2}
+  - {fileID: 11400000, guid: e88e3195c3207e64b8d812408d192855, type: 2}
+  - {fileID: 11400000, guid: bd6f015eaefad0645978c13d409018c1, type: 2}
+  - {fileID: 11400000, guid: 2cf203d98759dc244ac0c580fea6330c, type: 2}
+  - {fileID: 11400000, guid: e65be470cd7be7843a6c72d0509c06ca, type: 2}
+  - {fileID: 11400000, guid: 494bd845c3c87f9449b000d8bc216040, type: 2}
+  LastUsedBall: {fileID: 11400000, guid: bfaa7b6db9df7c04fa4eb993093147ce, type: 2}
+  DexNumber: 430
+  Money: 0
+  RosterPreview:
+  - IsNull: 0
+    Species: {fileID: 11400000, guid: de8d5184bff9bba4684a755b34d1e78a, type: 2}
+    Form: {fileID: 11400000, guid: 6dc6b91c0521dca41b3fc884c5a6fa9f, type: 2}
+    Gender: 0
+    IsEgg: 0
+  - IsNull: 0
+    Species: {fileID: 11400000, guid: 81acf23af37c6654ca937fe227efd83e, type: 2}
+    Form: {fileID: 11400000, guid: 6dc6b91c0521dca41b3fc884c5a6fa9f, type: 2}
+    Gender: 1
+    IsEgg: 0
+  - IsNull: 1
+    Species: {fileID: 0}
+    Form: {fileID: 0}
+    Gender: 0
+    IsEgg: 0
+  - IsNull: 1
+    Species: {fileID: 0}
+    Form: {fileID: 0}
+    Gender: 0
+    IsEgg: 0
+  - IsNull: 1
+    Species: {fileID: 0}
+    Form: {fileID: 0}
+    Gender: 0
+    IsEgg: 0
+  - IsNull: 1
+    Species: {fileID: 0}
+    Form: {fileID: 0}
+    Gender: 0
+    IsEgg: 0
+  YAPUVersion: {fileID: 11400000, guid: 2c131c6eefc35254bbefd124468ad897, type: 2}
+  YAPUAssetsVersion: {fileID: 11400000, guid: e2419e815de9e75448ddfff258305a99, type: 2}

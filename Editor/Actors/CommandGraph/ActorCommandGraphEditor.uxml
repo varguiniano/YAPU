@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/YAPU/Editor/Actors/CommandGraph/ActorCommandGraphEditor.uss?fileID=7433441132597879392&amp;guid=99115638fe6afeb45b3688063cbe8714&amp;type=3#ActorCommandGraphEditor" />
+    <uie:Toolbar class="graph-toolbar">
+        <ui:Button text="Save" name="SaveButton" class="graph-button" />
+        <ui:VisualElement style="flex-grow: 1; max-width: 10px; max-height: 10px; align-self: center; min-height: 10px; min-width: 10px; background-image: url(&apos;project://database/Assets/Data/UnityDefaultRuntimeTheme.tss?fileID=2346436936791262179&amp;guid=7414fd9a282a9eb4886605b9adecffda&amp;type=3#console.infoicon&apos;);" />
+        <ui:Label text="Unity *should* correctly save the graph but it&apos;s Unity™, so it&apos;s recommended to manually save; specially when editing a graph in a prefab." name="SaveInfo" enable-rich-text="true" emoji-fallback-support="false" style="color: rgb(196, 196, 196); -unity-text-align: middle-left;" />
+    </uie:Toolbar>
+    <Varguiniano.YAPU.Editor.Actors.CommandGraph.ActorCommandGraphView style="flex-grow: 1;" />
+</ui:UXML>

@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9abc9527977942c4a27bc20550c612f4, type: 3}
+  m_Name: PlayerRosterTemplate
+  m_EditorClassIdentifier: 
+  RoosterData:
+  - Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      Height: 0
+      Weight: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+  - Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      Height: 0
+      Weight: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+  - Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      Height: 0
+      Weight: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+  - Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      Height: 0
+      Weight: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+  - Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      Height: 0
+      Weight: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+  - Species: {fileID: 0}
+    Form: {fileID: 0}
+    OriginData:
+      Game: 
+      Region: 
+      Location: 
+      Trainer: 
+      OriginalLevel: 0
+      OriginType: 0
+      IsAlpha: 0
+      Ball: {fileID: 0}
+    PhysicalData:
+      Height: 0
+      Weight: 0
+      Gender: 0
+    StatData:
+      Level: 0
+      Nature: {fileID: 0}
+      CurrentLevelExperience: 0
+      IndividualValues:
+        SerializedList: []
+      EffortValues:
+        SerializedList: []
+    Ability: {fileID: 0}
+    HasNickname: 0
+    Nickname: 
+    CurrentTrainer: 
+    Friendship: 0
+    CurrentHP: 0
+    Status: {fileID: 0}
+    CurrentMoves: []
+    LearntMoves: []
+    Conditions:
+      SerializedList: []
+    MaxFormLevel: 0
+    VirusData:
+      HasVirus: 0
+      IsImmune: 0
+      Strain: 0
+      InfectionTimer: 0
+    Ribbons: []
+    HeldItem: {fileID: 0}
+  Settings: {fileID: 11400000, guid: 0ee6fc8f7d2694742b0b3afb28830f11, type: 2}
+  Database: {fileID: 11400000, guid: ad43563860a7b194c929b9196975801d, type: 2}
+  Template: {fileID: 0}

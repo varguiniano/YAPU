@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HealthSlider
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 9089010835a04c8ca583beb46682fd51, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Duration
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlaySoundOnDecrease
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DecreaseSound.Audio
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlaySoundOnIncrease
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: IncreaseSound.Audio
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[0].Key
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[0].Value.r
+    value: 0.3921569
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[0].Value.g
+    value: 0.91372555
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[0].Value.b
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[0].Value.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[1].Key
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[1].Value.r
+    value: 0.9803922
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[1].Value.g
+    value: 0.89019614
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[1].Value.b
+    value: 0.20000002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[1].Value.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[2].Key
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[2].Value.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[2].Value.g
+    value: 0.19339621
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[2].Value.b
+    value: 0.41205385
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorsByPercentage.SerializedList.Array.data[2].Value.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: FillArea
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WarningLevel
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WarningSound.Audio
+    value: LowHealth
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ZeroSound.Audio
+    value: NoHealth
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

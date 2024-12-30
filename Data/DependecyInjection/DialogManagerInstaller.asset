@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a17ab97d5874f38aac19d831f0bc614, type: 3}
+  m_Name: DialogManagerInstaller
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 2721871017592334296, guid: 301873fce6ea8204faf9bbf13bf7966b, type: 3}

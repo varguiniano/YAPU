@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: YAPU
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: 0.3921569, g: 0.91372555, b: 0, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.37647063, g: 0.37647063, b: 0.38431376, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.13725491, g: 0.13725491, b: 0.13725491, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  - m_Name: 
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.9803922, g: 0.89019614, b: 0.20000002, a: 1}
+  - m_Name: 
+    m_Color: {r: 1, g: 0.24056602, b: 0.3066454, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.8207547, b: 0.8207547, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.17254902, g: 0.17163582, b: 0.17163582, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.43529415, g: 0.79215693, b: 0.5019608, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.89019614, g: 0.7137255, b: 0.48235297, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.8196079, g: 0.5568628, b: 0.882353, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.5754717, g: 0.17101282, b: 0.20645508, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.9490197, g: 0.7176471, b: 0.121568635, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.89019614, g: 0.43921572, b: 0.043137256, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.07450981, g: 0.07450981, b: 0.07450981, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.9960785, g: 0.96470594, b: 0.67058825, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.6745098, g: 0.41176474, b: 0, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.24023129, g: 0.21987364, b: 0.5754717, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.13442369, g: 0.12304201, b: 0.3301887, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.015686275, g: 0.23137257, b: 0.78823537, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.6627451, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.96470594, g: 0.47058827, b: 0.23137257, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.3134993, g: 0.5188679, b: 0.15908687, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.4327231, g: 0.4233268, b: 0.5943396, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.7830189, g: 0.7821926, b: 0.18098079, a: 1}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91af6691b9044210a41b2c76509eb7d4, type: 3}
+  m_Name: LocalizerProjectSettings
+  m_EditorClassIdentifier: 
+  LanguagePackDirectory: Languages/
+  GoogleSheetsDownloadUrls:
+  - https://docs.google.com/spreadsheets/d/1VvuaFFsneBqPR8FmPnPra4HgjclIWXvmD-yC0_eHIro/edit?usp=sharing
+  - https://docs.google.com/spreadsheets/d/1DqJFOsVn_O7RCfPrpp-U8s9ZEIV7EP5J0BlHPZXmtAA/edit?usp=sharing
+  TextPostProcessors:
+  - {fileID: 11400000, guid: 75587a7f76993f74280aca015f830668, type: 2}
+  - {fileID: 11400000, guid: 637da180645e43f48b35519a461d0cad, type: 2}
+  - {fileID: 11400000, guid: 92bdd3b0c83a76a48a2f58dac462dc30, type: 2}

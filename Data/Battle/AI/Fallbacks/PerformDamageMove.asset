@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d90fe1f69ec4ac69027a498486a193a, type: 3}
+  m_Name: PerformDamageMove
+  m_EditorClassIdentifier: 
+  EffectivenessThreshold: 0
+  Chance: 0.5
+  Fallback: {fileID: 11400000, guid: caecbff4f32401b4b8695cd6c9234f9f, type: 2}

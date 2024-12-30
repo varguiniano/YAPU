@@ -1,0 +1,203 @@
+#node-border {
+    background-color: rgb(56, 56, 56);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-left-color: rgb(37, 37, 37);
+    border-right-color: rgb(37, 37, 37);
+    border-top-color: rgb(37, 37, 37);
+    border-bottom-color: rgb(37, 37, 37);
+}
+
+#title {
+    background-color: rgb(14, 14, 14);
+}
+
+#title-label {
+    color: rgb(196, 196, 196);
+    -unity-font-style: bold;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#selection-border {
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-left-color: rgb(0, 157, 255);
+    border-right-color: rgb(0, 157, 255);
+    border-top-color: rgb(0, 157, 255);
+    border-bottom-color: rgb(0, 157, 255);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+:hover > #selection-border {
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+}
+
+:selected > #selection-border {
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+}
+
+:hover:selected > #selection-border {
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+}
+
+.node-content-top {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.node {
+    min-width: 450px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+#node-inspector {
+    flex-shrink: 0;
+    flex-grow: 1;
+    min-width: 350px;
+}
+
+.horizontal-divider {
+    border-left-color: rgb(14, 14, 14);
+    border-right-color: rgb(14, 14, 14);
+    border-top-color: rgb(14, 14, 14);
+    border-bottom-color: rgb(14, 14, 14);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.animations #title {
+    background-color: rgb(192, 175, 0);
+}
+
+.animations #title-label {
+    color: rgb(0, 0, 0);
+}
+
+.badges #title {
+    background-color: rgb(106, 79, 1);
+}
+
+.battles #title {
+    background-color: rgb(142, 0, 31);
+}
+
+.breeding #title {
+    background-color: rgb(217, 0, 187);
+}
+
+.debug #title {
+    background-color: rgb(0, 221, 165);
+}
+
+.debug #title-label {
+    color: rgb(0, 0, 0);
+}
+
+.dex #title {
+    background-color: rgb(74, 0, 147);
+}
+
+.dialogs #title {
+    background-color: rgb(11, 0, 89);
+}
+
+.items #title {
+    background-color: rgb(0, 49, 164);
+}
+
+.monsters #title {
+    background-color: rgb(144, 0, 55);
+}
+
+.quests #title {
+    background-color: rgb(1, 77, 20);
+}
+
+.saves #title {
+    background-color: rgb(59, 190, 0);
+}
+
+.saves #title-label {
+    color: rgb(0, 0, 0);
+}
+
+.shops #title {
+    background-color: rgb(0, 56, 72);
+}
+
+.sounds #title {
+    background-color: rgb(0, 97, 64);
+}
+
+.utils #title {
+    background-color: rgb(168, 114, 0);
+}
+
+.variables #title {
+    background-color: rgb(0, 84, 128);
+}
+
+.running #selection-border {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-left-color: rgb(41, 255, 0);
+    border-right-color: rgb(41, 255, 0);
+    border-top-color: rgb(41, 255, 0);
+    border-bottom-color: rgb(41, 255, 0);
+}
+
+.cooking #title {
+    background-color: rgb(255, 163, 97);
+}
+
+.cooking #title-label {
+    color: rgb(19, 19, 19);
+}
+
+.trade #title {
+    background-color: rgb(111, 62, 166);
+}

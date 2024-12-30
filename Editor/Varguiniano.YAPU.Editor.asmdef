@@ -1,0 +1,31 @@
+{
+    "name": "Varguiniano.YAPU.Editor",
+    "rootNamespace": "Varguiniano",
+    "references": [
+        "GUID:6f75e3e9b2be11e40a79ad3ceec60e41",
+        "GUID:65b45c1fca0f88146a105e3b90cf3221",
+        "GUID:3a0cd3d4407523341ac561fc9ff7312b",
+        "GUID:94d4acbe6edae234084ccfdd0e5ebd4b",
+        "GUID:e46633d12cd07c44693f88f6366e90b1",
+        "GUID:b7d9d0f9b4076534196eb62228e0b923",
+        "GUID:2c573e6b271651846a79655161004c5b",
+        "GUID:ed8b64f314bc6ca478e1df735ff57046"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "log4net.dll",
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "Sirenix.Utilities.dll",
+        "Sirenix.Utilities.Editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

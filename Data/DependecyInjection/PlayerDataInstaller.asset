@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa8f24ea67f14d71b3fdaaf21a62e1d4, type: 3}
+  m_Name: PlayerDataInstaller
+  m_EditorClassIdentifier: 
+  PlayerRoster: {fileID: 11400000, guid: d2b0bb2174cb9894c8648c4086240716, type: 2}
+  PlayerBag: {fileID: 11400000, guid: fd31d5c1ca049b44f829d6abf080da89, type: 2}
+  MonsterStorage: {fileID: 11400000, guid: 2481100032762d8429422139b2108ce3, type: 2}
+  Dex: {fileID: 11400000, guid: 9bb89cd47b4be3c4ab4544c10614cbee, type: 2}
+  PlayerCharacterData: {fileID: 11400000, guid: f6e7c83534cd0fe409cbf1e069de7ea6, type: 2}
+  GlobalGameData: {fileID: 11400000, guid: 82f2ba21767e2d744b122ad4eb14df7e, type: 2}
+  PlayerSettings: {fileID: 11400000, guid: b3db31bfcdc41c74688708b04828b74e, type: 2}
+  QuestManager: {fileID: 11400000, guid: 1159926159e4f0f42ae06fb37fa2bb6c, type: 2}

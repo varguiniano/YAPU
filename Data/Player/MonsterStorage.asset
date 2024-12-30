@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605f8976e6da4bb89e03c2be52f5e396, type: 3}
+  m_Name: MonsterStorage
+  m_EditorClassIdentifier: 
+  Settings: {fileID: 11400000, guid: 0ee6fc8f7d2694742b0b3afb28830f11, type: 2}
+  Database: {fileID: 11400000, guid: ad43563860a7b194c929b9196975801d, type: 2}
+  Monsters: []
+  TestFillOnSaveReset: 0
+  TestFillAmount: 10000
+  TestFillSpecies: {fileID: 11400000, guid: 45a280cf27746e44aa1ac3bc6a5cced7, type: 2}
+  TestFillForm: {fileID: 11400000, guid: 6dc6b91c0521dca41b3fc884c5a6fa9f, type: 2}
